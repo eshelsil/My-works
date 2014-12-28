@@ -4,8 +4,8 @@ My-works
 my works on python:
 
 
-Mankala.py
-Mankala game
+Mankala.py:
+Mankala game:
 Each player can be played by computer or user.
 The computer's level can be determined in scale of 'moves forward to analyze'
 
